@@ -1,0 +1,2 @@
+delete from luminaire_selection
+where luminaire_selection_id>0;
