@@ -1,0 +1,2 @@
+delete from light_information
+where light_information.light_information_id>0;
